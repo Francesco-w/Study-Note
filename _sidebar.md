@@ -16,8 +16,7 @@
   * [02SpringMVC](./docs/03SSM/_sidebar.md)
   * [03Mybatis](./docs/03SSM/_sidebar.md)
   * [04SSM整合](./docs/03SSM/_sidebar.md)
-  * [05Mybatis注解版](./docs/03SSM/_sidebar.md)
-  * [06MybatisPlus&通用Mapper](./docs/03SSM/_sidebar.md)
+  * [05MybatisPlus&通用Mapper](./docs/03SSM/_sidebar.md)
 * 04Maven教程
 
   * [01Maven高级](./docs/04maven高级/_sidebar.md)
@@ -37,6 +36,7 @@
 
   * [01Vue入门](./docs/09VUE/_sidebar.md)
   * [02VueNotes](./docs/09VUE/_sidebar.md)
+  * [03sidebarVue后端版](./docs/09VUE/_sidebarVue后端版.md)
 * 10SpringCloud
 
   * [01SpringCloud入门](./docs/10SpringCloud/_sidebar.md)
