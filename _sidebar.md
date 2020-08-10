@@ -59,7 +59,7 @@
   * [01MySQL高级](./docs/15MySQL高级/_sidebar.md)
 * 16Oracle
 
-  * [01Oracle高级](./docs/16oracle高级/_sidebar.md)
+  * [01Oracle高级](./docs/16Oracle高级/_sidebar.md)
 * 17Redis
 
   * [01Redis入门](./docs/16Redis/_sidebar.md)
