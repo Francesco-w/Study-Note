@@ -36,7 +36,7 @@
 
   * [01Vue入门](./docs/09VUE/_sidebar.md)
   * [02VueNotes](./docs/09VUE/_sidebar.md)
-  * [03sidebarVue后端版](./docs/09VUE/_sidebarVue后端版.md)
+  * [03sidebarVue后端版](./docs/09VUE/_sidebar.md)
 * 10SpringCloud
 
   * [01SpringCloud入门](./docs/10SpringCloud/_sidebar.md)
