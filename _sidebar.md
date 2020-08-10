@@ -65,7 +65,7 @@
   * [01Redis入门](./docs/16Redis/_sidebar.md)
 * 18Nignx+keeplivd
 
-  * [Nignx的高可用](./docs/17Nignx+keeplived/_sidebar.md)
+  * [Nignx的高可用](./docs/17Nignx+Keeplived/_sidebar.md)
 * 19单点登录
 
   * [01CAS+SpringSecurity的实现](./docs/18CAS+SpringSecurity单点登录/_sidebar.md)
