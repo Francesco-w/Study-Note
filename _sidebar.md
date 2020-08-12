@@ -47,6 +47,7 @@
   * [01Vue入门](./docs/09VUE/_sidebar.md)
   * [02VueNotes](./docs/09VUE/_sidebar.md)
   * [03sidebarVue后端版](./docs/09VUE/_sidebar.md)
+  * [04尚硅谷Vue](./docs/09VUE/_sidebar.md)
   
 * 10SpringCloud
 

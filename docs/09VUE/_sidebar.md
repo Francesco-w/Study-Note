@@ -14,6 +14,7 @@
     - [06-Vue全家桶-项目实战](./docs/09VUE/01Vue入门/00课件/06-Vue全家桶-项目实战.md)
     - [07-Vue全家桶-项目上线](./docs/09VUE/01Vue入门/00课件/07-Vue全家桶-项目上线.md)
     - [08-Vue全家桶-Vuex](./docs/09VUE/01Vue入门/00课件/08-Vue全家桶-Vuex.md)
+    
   * [01笔记](./docs/09VUE/_sidebar.md)
 
     - [Vue课堂笔记](./docs/09VUE/01Vue入门/01笔记/Vue课堂笔记.md)
@@ -88,9 +89,9 @@
 
   - [Vue讲义](./docs/09VUE/03Vue后端版/vue讲义.md)
 
-  
+* [04尚硅谷Vue](./docs/09VUE/_sidebar.md)
 
-  
+  - [Vue全家桶](./docs/09VUE/04尚硅谷Vue/尚硅谷_Vue全家桶.md)
 
   
 
