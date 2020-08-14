@@ -5,6 +5,7 @@
   - [04Docker应用部署](./docs/13Docker/01Docker入门/04docker应用部署.md)
   - [05安装docker](/docs/13Docker/01Docker入门/05安装docker.md)
   - [05Docker课件](/docs/13Docker/01Docker入门/Docker.md)
+  - [06Docker笔记](/docs/13Docker/01Docker入门/Docker简记.md)
 
 
 

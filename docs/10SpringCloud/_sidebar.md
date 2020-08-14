@@ -8,6 +8,10 @@
   - [Springcloud2018](./docs\10SpringCloud\02尚硅谷周阳/05SpringCloud2018.html)
   - [SpringCloud2020](./docs/10SpringCloud/02尚硅谷周阳/SpringCloud.md)
   - [尚硅谷SpringCloud2020笔记](./docs/10SpringCloud/02尚硅谷周阳/01尚硅谷SpringCloud2020.md)
+  - [Nacos集群搭建](./docs/10SpringCloud/02尚硅谷周阳/Nacos集群的搭建.md)
+  - [SpringCloudAlibaba](./docs/10SpringCloud/02尚硅谷周阳/springcloud1.md)
+  - [尚硅谷第二季01](./docs/10SpringCloud/02尚硅谷周阳/SpringCloud_Season2.md)
+  - [尚硅谷第二季02](./docs/10SpringCloud/02尚硅谷周阳/SpringCloud_Season2_Part3.md)
 
 - [03SpringcloudAlibaba](./docs/10SpringCloud/_sidebar.md)
 
