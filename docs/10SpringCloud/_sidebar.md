@@ -7,6 +7,7 @@
 
   - [Springcloud2018](./docs\10SpringCloud\02尚硅谷周阳/05SpringCloud2018.html)
   - [SpringCloud2020](./docs/10SpringCloud/02尚硅谷周阳/SpringCloud.md)
+  - [尚硅谷SpringCloud2020笔记](./docs/10SpringCloud/02尚硅谷周阳/01尚硅谷SpringCloud2020.md)
 
 - [03SpringcloudAlibaba](./docs/10SpringCloud/_sidebar.md)
 

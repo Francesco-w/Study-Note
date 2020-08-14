@@ -6,4 +6,5 @@
   * [03Spring Boot-核心篇](./docs/07SpringBoot/01SpringBoot/03SpringBoot-核心篇.md)
   * [04Spring Boot-高级篇](./docs/07SpringBoot/01SpringBoot/04SpringBoot-高级篇.md)
   * [05尚硅谷SpringBoot课件](./docs/07SpringBoot/01SpringBoot/05尚硅谷SpringBoot课件.md)
+  * [06尚硅谷SpringBoot笔记](./docs/07SpringBoot/01SpringBoot/06尚硅谷SpringBoot.md)
 
