@@ -93,5 +93,7 @@
 
   - [Vue全家桶](./docs/09VUE/04尚硅谷Vue/尚硅谷_Vue全家桶.md)
 
+  - [Vue笔记](./docs/09VUE/04尚硅谷Vue/Vue.md)
+
   
 

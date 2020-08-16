@@ -6,6 +6,7 @@
   - [05安装docker](/docs/13Docker/01Docker入门/05安装docker.md)
   - [05Docker课件](/docs/13Docker/01Docker入门/Docker.md)
   - [06Docker笔记](/docs/13Docker/01Docker入门/Docker简记.md)
+  - [07集群与Docker使用](/docs/13Docker/01Docker入门/集群与Docker使用.md)
 
 
 
