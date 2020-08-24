@@ -1,3 +1,5 @@
+- [00-IDEA工具](./docs/33课件-360期/_sidebar.md)
+  - [IDEA使用技巧](./docs/33课件-360期/00-IDEA使用/IDEA神器使用技巧.md)
 - [01-基础班-课件](./docs/33课件-360期/_sidebar.md)
   - [day01-java基础语法](./docs/33课件-360期/01-基础班-课件/day01-java基础语法.md)
   - [day02-Java基础语法](./docs/33课件-360期/01-基础班-课件/day02-Java基础语法.md)
