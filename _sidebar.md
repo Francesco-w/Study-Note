@@ -90,9 +90,11 @@
 
   * [01Elk入门](./docs/24ELK/_sidebar.md)
 * 26畅购商城
-* [01畅购商城课件](./docs/25畅购/_sidebar.md)
+
+    * [01畅购商城课件](./docs/25畅购/_sidebar.md)
 * 27乐优商城
-* [01乐优商城课件](./docs/26乐优商城/_sidebar.md)
+
+    * [01乐优商城课件](./docs/26乐优商城/_sidebar.md)
 * 28黑马头条
 
   * [01黑马头条课件](./docs/27黑马头条/_sidebar.md)
@@ -112,3 +114,6 @@
 
 -   33JVM
   - [JVM笔记](./docs/32JVM/_sidebar.md)
+
+- 34课件-360期
+  - [360期课件](./docs/33课件-360期/_sidebar.md)

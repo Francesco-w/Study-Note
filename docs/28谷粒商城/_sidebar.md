@@ -12,20 +12,20 @@
 
   * [02谷粒电商文档](./docs/28谷粒商城/_sidebar.md)
 
-* [01nacos_gateway](./docs/28谷粒商城/02谷粒电商文档/01nacos_gateway.md)
-  
-    * [02环境搭建、OSS、swagger、mybatis-plus](./docs/28谷粒商城/02谷粒电商文档/02环境搭建、OSS、swagger、mybatis-plus.md)
-    * [03规格参数及商品新增](./docs/28谷粒商城/02谷粒电商文档/03规格参数及商品新增.md)
-    * [04事务](./docs/28谷粒商城/02谷粒电商文档/04事务.md)
-    * [05elasticsearch](./docs/28谷粒商城/02谷粒电商文档/05elasticsearch.md)
-    * [06elasticsearch](./docs/28谷粒商城/02谷粒电商文档/06elasticsearch.md)
-    * [07商品搜索](./docs/28谷粒商城/02谷粒电商文档/07商品搜索.md)
-    * [08商品分类、缓存及分布式锁](./docs/28谷粒商城/02谷粒电商文档/08商品分类、缓存及分布式锁.md)
-    * [09商品详情](./docs/28谷粒商城/02谷粒电商文档/09商品详情.md)
-    * [10单点登录（jwt）](./docs/28谷粒商城/02谷粒电商文档/10单点登录（jwt）.md)
-    * [11订单](./docs/28谷粒商城/02谷粒电商文档/11订单.md)
-    * [12rabbitmq](./docs/28谷粒商城/02谷粒电商文档/12rabbitmq.md)
-    
+    - [01nacos_gateway](./docs/28谷粒商城/02谷粒电商文档/01nacos_gateway.md)
+
+    - [02环境搭建、OSS、swagger、mybatis-plus](./docs/28谷粒商城/02谷粒电商文档/02环境搭建、OSS、swagger、mybatis-plus.md)
+    - [03规格参数及商品新增](./docs/28谷粒商城/02谷粒电商文档/03规格参数及商品新增.md)
+    - [04事务](./docs/28谷粒商城/02谷粒电商文档/04事务.md)
+    - [05elasticsearch](./docs/28谷粒商城/02谷粒电商文档/05elasticsearch.md)
+    - [06elasticsearch](./docs/28谷粒商城/02谷粒电商文档/06elasticsearch.md)
+    - [07商品搜索](./docs/28谷粒商城/02谷粒电商文档/07商品搜索.md)
+    - [08商品分类、缓存及分布式锁](./docs/28谷粒商城/02谷粒电商文档/08商品分类、缓存及分布式锁.md)
+    - [09商品详情](./docs/28谷粒商城/02谷粒电商文档/09商品详情.md)
+    - [10单点登录（jwt）](./docs/28谷粒商城/02谷粒电商文档/10单点登录（jwt）.md)
+    - [11订单](./docs/28谷粒商城/02谷粒电商文档/11订单.md)
+    - [12rabbitmq](./docs/28谷粒商城/02谷粒电商文档/12rabbitmq.md)
+
 * [03笔记整理](./docs/28谷粒商城/_sidebar.md)
 
     - [00谷粒商城](./docs/28谷粒商城/03笔记整理/00谷粒商城.md)
