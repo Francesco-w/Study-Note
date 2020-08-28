@@ -89,31 +89,14 @@
 * 25ELK
 
   * [01Elk入门](./docs/24ELK/_sidebar.md)
-* 26畅购商城
+* 26数据结构和算法
+  - [01黑马数据结构](./docs/25数据结构和算法/_sidebar.md)
+* 27Zookeeper
 
-    * [01畅购商城课件](./docs/25畅购/_sidebar.md)
-* 27乐优商城
+  * [Zookeeper笔记](./docs/26Zookeeper/_sidebar.md)
+* 28Kafaka
 
-    * [01乐优商城课件](./docs/26乐优商城/_sidebar.md)
-* 28黑马头条
+  * [Kafaka笔记](./docs/27Kafaka/_sidebar.md)
 
-  * [01黑马头条课件](./docs/27黑马头条/_sidebar.md)
-* 29谷粒商城
-
-  * [01谷粒商城课件](./docs/28谷粒商城/_sidebar.md)
-  * [02谷粒商城笔记](./docs/28谷粒商城/_sidebar.md)
-  * [03笔记整理](./docs/28谷粒商城/_sidebar.md)
-* 30数据结构和算法
-  - [01黑马数据结构](./docs/29数据结构和算法/_sidebar.md)
-* 31Zookeeper
-
-    * [Zookeeper笔记](./docs/30Zookeeper/_sidebar.md)
-* 32Kafaka
-
-  * [Kafaka笔记](./docs/31Kafaka/_sidebar.md)
-
--   33JVM
-  - [JVM笔记](./docs/32JVM/_sidebar.md)
-
-- 34课件-360期
-  - [360期课件](./docs/33课件-360期/_sidebar.md)
+-   29JVM
+  - [JVM笔记](./docs/28JVM/_sidebar.md)
